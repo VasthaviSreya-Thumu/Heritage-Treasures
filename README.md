@@ -7,10 +7,11 @@ Dashboard-1 : https://public.tableau.com/views/dashboard1_17716219088170/UNESCOW
  
 Dashboard-2 : https://public.tableau.com/views/dashboard2_17716220051490/UNESCODangerSitesOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
  
-Story : 
-https://public.tableau.com/shared/25JPW82WR?:display_count=n&:origin=viz_share_link
+Story : https://public.tableau.com/views/story2_17717621452180/UNESCO?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
  
 Dataset Link : https://www.kaggle.com/datasets/ujwalkandi/unesco-world-heritage-sites/data?selec t=whc-sites2019.csv 
  
 Github Repository Link : https://github.com/VasthaviSreya-Thumu/Heritage-Treasures
+
+Youtube Repository Link : https://youtu.be/gnp3Rs3bfrM
  
